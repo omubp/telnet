@@ -1,3 +1,4 @@
+tool:SOC in virtual machine
 1. sudo nano file.txt , ls , cat file.txt , openssl aes-256-cbc -in file.txt -out encr_file.enc
 
 2. cat encr_file.enc , cat openssl aes-256-cbc -a  -in file.txt -out encr_file.enc , cat encr_file.enc
